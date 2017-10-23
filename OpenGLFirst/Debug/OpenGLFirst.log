@@ -1,0 +1,5 @@
+﻿  Main.cpp
+c:\users\mohamed ahmed\documents\opengl stuff\include\learnopengl\shader_s.h(52): warning C4101: 'infoLog': unreferenced local variable
+c:\users\mohamed ahmed\documents\opengl stuff\include\learnopengl\shader_s.h(51): warning C4101: 'success': unreferenced local variable
+  OpenGLFirst.vcxproj -> C:\Users\Mohamed Ahmed\Desktop\OpenGLFirst1\OpenGLFirst\Debug\OpenGLFirst.exe
+  OpenGLFirst.vcxproj -> C:\Users\Mohamed Ahmed\Desktop\OpenGLFirst1\OpenGLFirst\Debug\OpenGLFirst.pdb (Partial PDB)
